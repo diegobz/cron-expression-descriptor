@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[cron-expression-descriptor.resources]
+file_filter = CronExpressionDescriptor/Resources.<lang>.resx
+source_file = CronExpressionDescriptor/Resources.resx
+source_lang = en
+type = RESX
+
+lang_map = pt_BR: pt-br
